@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "hiPas";
+$password = "";
 $database = "flower_shop";
 
 // Create connection
