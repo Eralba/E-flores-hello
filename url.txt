@@ -1,1 +1,3 @@
 http://localhost/e-flores/E-flores/
+
+http://localhost/e-flores/E-flores/BuyerData.php
